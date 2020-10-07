@@ -1,7 +1,10 @@
 ### Hi folks... Welcome to MB Universe 👋
 
-Currently working on few flutter apps which will soon appear on my github profile. And
-[a link](https://moulibheemaneti.github.io)
+Currently working on few flutter apps which will soon appear on my github profile. And checkout
+[mb profile](https://moulibheemaneti.github.io)
+
+I'm currently learning many things like flutter, blogging, video editing and music composing. Trying to achieve versataility.
+
 <!--
 **moulibheemaneti/moulibheemaneti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
