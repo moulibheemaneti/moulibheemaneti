@@ -1,7 +1,7 @@
 ### Hi folks... Welcome to MB Universe 👋
 
 Currently working on few flutter apps which will soon appear on my github profile. And checkout
-[mb profile](https://moulibheemaneti.github.io)
+[mb profile](https://sites.google.com/view/moulibheemaneti)
 
 I'm currently learning many things like flutter, blogging, video editing and music composing. Trying to achieve versataility.
 
