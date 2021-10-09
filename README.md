@@ -7,10 +7,21 @@ I'm currently learning many things like flutter, blogging, creative writing, vid
 I'm all over the internet. Enjoy my works and I'm ready to hear the feedbacks and for collabrations. Check out my works:
 
 ### As a Developer
-* [Play Store]()
+* [My BMI Calculator](https://play.google.com/store/apps/details?id=com.moulibheemaneti.bmi_app)
 
 ### As a Musical Artist
-* [Youtube]()
+* [Spotify](https://open.spotify.com/artist/2ny7JyTgSvXGCnCJGx3jSt)
+* [Amazon Music](https://music.amazon.in/artists/B088WXDMZT/mouli-bheemaneti)
+* [Youtube](https://www.youtube.com/bemouli)
+* [Apple Music](https://music.apple.com/us/artist/mouli-bheemaneti/1519633704)
+
+### As a Graphic Designer
+* [Behance](https://www.behance.com/moulibheemaneti)
+
+### As an Author
+* [Lover Voice](https://www.amazon.in/Lover-Voice-Quotes-Mouli-Bheemaneti-ebook/dp/B08GFBB5NY)
+
+
 
 
 
