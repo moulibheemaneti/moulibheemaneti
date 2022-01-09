@@ -8,12 +8,7 @@ I'm all over the internet. Enjoy my works and I'm ready to hear the feedbacks an
 
 ### As a Developer
 * [My BMI Calculator](https://play.google.com/store/apps/details?id=com.moulibheemaneti.bmi_app)
-
-### As a Musical Artist
-* [Spotify](https://open.spotify.com/artist/2ny7JyTgSvXGCnCJGx3jSt)
-* [Amazon Music](https://music.amazon.in/artists/B088WXDMZT/mouli-bheemaneti)
-* [Youtube](https://www.youtube.com/bemouli)
-* [Apple Music](https://music.apple.com/us/artist/mouli-bheemaneti/1519633704)
+* [My BMI Calculator Website](https://bmiapp.moulibheemaneti.com)
 
 ### As a Graphic Designer
 * [Behance](https://www.behance.com/moulibheemaneti)
@@ -21,6 +16,11 @@ I'm all over the internet. Enjoy my works and I'm ready to hear the feedbacks an
 ### As an Author
 * [Lover Voice](https://www.amazon.in/Lover-Voice-Quotes-Mouli-Bheemaneti-ebook/dp/B08GFBB5NY)
 
+### As a Musical Artist
+* [Spotify](https://open.spotify.com/artist/2ny7JyTgSvXGCnCJGx3jSt)
+* [Amazon Music](https://music.amazon.in/artists/B088WXDMZT/mouli-bheemaneti)
+* [Youtube](https://www.youtube.com/bemouli)
+* [Apple Music](https://music.apple.com/us/artist/mouli-bheemaneti/1519633704)
 
 
 
