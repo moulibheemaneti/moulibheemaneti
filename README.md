@@ -1,14 +1,28 @@
 ### Hi folks... Welcome to MB Universe 👋
 
-Currently working on few flutter apps which will soon appear on my github profile. And checkout
-[**Mouli Bheemaneti's Website**](https://www.moulibheemaneti.com)
+Checkout [**Mouli Bheemaneti's Website**](https://www.moulibheemaneti.com)
 
-I'm currently learning many things like flutter, blogging, creative writing, video editing and music composing. Trying to achieve versataility.
-I'm all over the internet. Enjoy my works and I'm ready to hear the feedbacks and for collabrations. Check out my works:
+- 🔭 I’m currently working on few **Flutter projects**
 
-### As a Developer
-* [My BMI Calculator](https://play.google.com/store/apps/details?id=com.moulibheemaneti.bmi_app)
-* [My BMI Calculator Website](https://bmiapp.moulibheemaneti.com)
+- 🌱 I’m currently learning  **Javascript, Getx**
+
+- 💬 Ask me about  **Flutter & Dart**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/moulibheemaneti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="defactopun" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<!--   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p> -->
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moulibheemaneti&show_icons=true&locale=en" alt="moulibheemaneti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulibheemaneti&" alt="moulibheemaneti" /></p>
+
+## ⚡ My other blazing works are in **Music, Books, Graphic Designs**
 
 ### As a Graphic Designer
 * [Behance](https://www.behance.com/moulibheemaneti)
@@ -23,7 +37,11 @@ I'm all over the internet. Enjoy my works and I'm ready to hear the feedbacks an
 * [Apple Music](https://music.apple.com/us/artist/mouli-bheemaneti/1519633704)
 
 
+<div align="center">
 
+### Show some ❤️ by starring some of my repositories!
+
+</div>
 
 <!--
 **moulibheemaneti/moulibheemaneti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
