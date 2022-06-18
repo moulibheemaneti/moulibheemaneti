@@ -1,0 +1,127 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+        *{
+            font-family: 'Poppins', sans-serif; 
+            box-sizing: border-box;
+        }
+        body{
+            background-color: #dedede;
+            margin: 0;
+            align-items: center;
+            text-align: center;
+        }
+        header{
+            background-color: black;
+            padding: 1.5rem;
+            color: white;
+            text-align: center;
+        }
+        main{
+            padding: 0 1.5rem;
+        }
+        section{
+            background-color: white;
+            color: #000;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            /* border-radius: 1rem; */
+        }
+        section:hover{
+            box-shadow: 0.25rem 0.25rem 0.75rem rgba(0, 0,0,0.2);
+        }
+
+        a{
+            text-decoration: none;
+        }
+
+        button{
+            border: 0;
+            margin: 0;
+            padding: 0.25rem 0.5rem;
+        }
+
+        button:hover,
+        button:active
+        {
+            cursor: pointer;
+            background-color: #000;
+            color: white;
+        }
+        
+        footer{
+            background-color: #1a1a1a;
+            padding: 20px;
+            text-align: center;
+            color: white;
+            margin-bottom: 0px;
+        }
+    </style>
+<header>
+            <h1>
+                Hello world... Welcome to MB Universe
+            </h1>
+    </header>
+    <main>
+        <section id="working">
+            <h2>
+                Currently working with
+            </h2>
+            <a href="https://www.moulibheemaneti.com">
+                <button>
+                    Flutter
+                </button>
+            </a>
+        </section>
+            <section id="learning">
+                <h2>
+                    Currently learning
+                </h2>
+                <a href="https://www.moulibheemaneti.com">
+                    <button>
+                        ASP.NET
+                    </button>
+                </a>
+                <a href="https://www.moulibheemaneti.com">
+                    <button>
+                        VueJS
+                    </button>
+                </a>
+            </section>
+            <section id="dealt-with">
+                <h2>
+                    Languages & Tools dealt with:
+                </h2>
+                <a href="https://www.moulibheemaneti.com">
+                    <button>
+                        Dart
+                    </button>
+                </a>
+                <a href="https://www.moulibheemaneti.com">
+                    <button>
+                        Python
+                    </button>
+                </a>
+                <a href="https://www.moulibheemaneti.com">
+                    <button>
+                        C#
+                    </button>
+                </a>
+            </section>
+            <section id="stats">
+                <h2>
+                    Stats
+                </h2>
+                <img src="https://camo.githubusercontent.com/4604e910ce625f4e0001a7957f65ed2119c375c2496934f32e09b1c869640f08/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6f756c69626865656d616e65746926" alt="">
+                <img src="https://camo.githubusercontent.com/3962c78d20cc9ff60c266a7c36951d2e2451553b693b22a839b8c7ac70b3f647/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f756c69626865656d616e6574692673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="">
+            </section>
+    </main>
+    <footer>
+            <h3>
+                Show some love by starring some of my repositories on GitHub
+            </h3>
+    </footer>
+        </div>
+    </foreignObject>
+</svg>
