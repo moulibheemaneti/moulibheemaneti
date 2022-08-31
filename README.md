@@ -10,6 +10,12 @@ Checkout [**Mouli Bheemaneti's Website**](https://www.moulibheemaneti.com)
 
 - 💬 Ask me about  **Flutter & Dart**
 
+```dart
+String interest = "Flutter Developer";
+List<String> hobbies = ["Music", "Short story Writing", "song writing"];
+
+````
+
 ### Connect with me:
 
 <p align="left">
