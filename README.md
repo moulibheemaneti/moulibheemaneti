@@ -1,7 +1,8 @@
+# Welcome to the dev-world of MB
+
 # 💫 About Me:
-🔭 I’m currently working on [Tribzy](https://www.tribzy.com)<br>👯 I’m looking to collaborate on a product development.<br>🌱 I’m currently learning [Product Management](https://www.credential.net/1fe5fc51-5ccc-4639-8793-ace3ff7b7670#gs.cqzl7j)<br>💬 Ask me about Web Development (Nuxt3), Cross-platform Development (Flutter)<br>⚡ Fun fact is that I'm a dev with some [music in the background](https://open.spotify.com/artist/2ny7JyTgSvXGCnCJGx3jSt)
-
-
+🔭 I’m currently working on [Tribzy](https://www.tribzy.com)<br>👯 I’m looking to collaborate on a product development.<br>🌱 I’m currently learning [Product Management](https://www.credential.net/1fe5fc51-5ccc-4639-8793-ace3ff7b7670#gs.cqzl7j)<br>💬 Ask me about Web Development (Nuxt3), Cross-platform Development (Flutter)<br>⚡ Fun fact is that I'm a dev with some [music in the background](https://open.spotify.com/artist/2ny7JyTgSvXGCnCJGx3jSt) ( [music folio](https://music.moulibheemaneti.com)
+) and [design on the top](https://www.behance.net/moulibheemaneti)
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/moulibheemaneti) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/be.mouli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mouli.bheemaneti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moulibheemaneti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@moulibheemaneti) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/moulibheemaneti) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moulibheemaneti) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@be.mouli) 
 
