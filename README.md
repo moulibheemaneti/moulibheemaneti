@@ -21,7 +21,7 @@ Crafting responsive interfaces, refining user journeys, and turning design into 
 
 ### 📌 Tribzy _(Demo Project)_
 A small collaborative prototype exploring a lean MVP approach with a clean frontend UI.  
-In collabration with 
+In collabration with [Shashank Jagannatham](https://www.linkedin.com/in/shashank-jagannatham/) 
 
 _(More projects will be added soon!)_
 
