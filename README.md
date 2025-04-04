@@ -53,7 +53,7 @@ I’m open to freelance projects, collaborations, and cool side gigs!
 
 ![Mouli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moulibheemaneti&show_icons=true&theme=radical&hide=prs)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moulibheemaneti&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=moulibheemaneti&theme=radical&hide_border=false)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=moulibheemaneti&theme=radical&hide_border=false) -->
 
 </div>
 
