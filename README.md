@@ -1,19 +1,74 @@
-# Welcome to the dev-world of MB
+# 👋 Hey there, I'm Mouli Bheemaneti
 
-# 💫 About Me:
-<!--
-🔭 I’m currently working on [Tribzy](https://www.tribzy.com)<br>👯 I’m looking to collaborate on a product development.<br>🌱 I’m currently learning [Product Management](https://www.credential.net/1fe5fc51-5ccc-4639-8793-ace3ff7b7670#gs.cqzl7j)<br>💬 Ask me about Web Development (Nuxt3), Cross-platform Development (Flutter)<br>⚡ Fun fact is that I'm a dev with some [music in the background](https://open.spotify.com/artist/2ny7JyTgSvXGCnCJGx3jSt) ( [music folio](https://music.moulibheemaneti.com)
-) and [design on the top](https://www.behance.net/moulibheemaneti)
--->
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/moulibheemaneti) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/be.mouli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mouli.bheemaneti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moulibheemaneti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@moulibheemaneti) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/moulibheemaneti) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moulibheemaneti) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@be.mouli) 
+Frontend-focused Software Engineer & Product Enthusiast 👨‍💻  
+Crafting responsive interfaces, refining user journeys, and turning design into reality — one pixel at a time.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moulibheemaneti&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moulibheemaneti&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moulibheemaneti&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
+## 🧰 Tech Stack
 
-Created with [GPRM](https://gprm.itsvg.in)
+**Languages & Frameworks:**
+
+- 💻 Frontend: `Vue`, `Nuxt`, `React`, `JavaScript`, `TypeScript`
+- 🧩 Backend (supportive): `Node.js`, `C#`, `ASP.NET`
+- 📱 Mobile (passive): `Flutter`, `Dart`
+- 🎨 Design: `Figma`
+- 🧠 Product: Product Roadmapping, Backlog Grooming
+
+---
+
+## 🚀 Side Projects
+
+### 📌 Tribzy _(Demo Project)_
+A small collaborative prototype exploring a lean MVP approach with a clean frontend UI.  
+In collabration with 
+
+_(More projects will be added soon!)_
+
+---
+
+## 🌐 Portfolios (Shades of MB)
+
+🔗 [Generic](https://www.moulibheemaneti.com)  
+🔗 [As a Developer](https://developer.moulibheemaneti.com)  
+🔗 [As a Musical Artist](https://www.moulibheemaneti.com)  
+🔗 [As a Designer](https://www.behance.net/moulibheemaneti)  
+
+---
+
+## 📬 Let's Connect
+
+I’m open to freelance projects, collaborations, and cool side gigs!  
+📫 Reach out through any of the platforms below:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moulibheemaneti)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/moulibheemaneti)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulibheemaneti99@gmail.com)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Mouli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moulibheemaneti&show_icons=true&theme=radical&hide=prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moulibheemaneti&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=moulibheemaneti&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+## 🎧 Outside the Code
+
+When I'm not writing code or crafting product ideas, you’ll probably find me:
+
+- 🎵 Producing music, writing lyrics, or diving into new sounds
+- 🏸 Playing a fun round of badminton
+- 📚 Reading books — both tech and beyond
+
+---
+<!-- 
+> _“Placeholder for a personal quote or vision statement about coding, creativity, or product building.”_
+
+--- -->
