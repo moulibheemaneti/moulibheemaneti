@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mouli Bheemaneti
 
-Frontend-focused Software Engineer & Product Enthusiast 👨‍💻  
+Software Engineer & Product Enthusiast 👨‍💻  
 Crafting responsive interfaces, refining user journeys, and turning design into reality — one pixel at a time.
 
 ---
@@ -9,6 +9,7 @@ Crafting responsive interfaces, refining user journeys, and turning design into 
 
 **Languages & Frameworks:**
 
+- 🦀 My new crush: `Rust`
 - 💻 Frontend: `Vue`, `Nuxt`, `React`, `JavaScript`, `TypeScript`
 - 🧩 Backend (supportive): `Node.js`, `C#`, `ASP.NET`
 - 📱 Mobile (passive): `Flutter`, `Dart`
