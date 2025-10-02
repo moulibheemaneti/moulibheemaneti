@@ -18,6 +18,7 @@ Crafting responsive interfaces, refining user journeys, and turning design into 
 
 ---
 
+<!--
 ## 🚀 Side Projects
 
 ### 📌 Tribzy _(Demo Project)_
@@ -27,6 +28,7 @@ In collabration with [Shashank Jagannatham](https://www.linkedin.com/in/shashank
 _(More projects will be added soon!)_
 
 ---
+-->
 
 ## 🌐 Portfolios (Shades of MB)
 
