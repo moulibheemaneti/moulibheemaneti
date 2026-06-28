@@ -34,6 +34,26 @@
 
 ---
 
+## 📦 Published Packages
+
+### ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+| Package | Version | Weekly Downloads |
+|:--|:--:|:--:|
+| [@moulibheemaneti/commitguard](https://www.npmjs.com/package/@moulibheemaneti/commitguard) | ![version](https://img.shields.io/npm/v/@moulibheemaneti/commitguard?style=flat-square&color=CB3837&logo=npm&logoColor=white) | ![downloads](https://img.shields.io/npm/dw/@moulibheemaneti/commitguard?style=flat-square&color=CB3837&logo=npm&logoColor=white) |
+
+### ![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+| Package | Version | Likes | Pub Points |
+|:--|:--:|:--:|:--:|
+| [dart_husky](https://pub.dev/packages/dart_husky) | ![version](https://img.shields.io/pub/v/dart_husky?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/dart_husky?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/dart_husky?style=flat-square&color=0175C2) |
+| [adaptive_navbar](https://pub.dev/packages/adaptive_navbar) | ![version](https://img.shields.io/pub/v/adaptive_navbar?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/adaptive_navbar?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/adaptive_navbar?style=flat-square&color=0175C2) |
+| [flutter_createx](https://pub.dev/packages/flutter_createx) | ![version](https://img.shields.io/pub/v/flutter_createx?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/flutter_createx?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/flutter_createx?style=flat-square&color=0175C2) |
+| [flutter_upgradex](https://pub.dev/packages/flutter_upgradex) | ![version](https://img.shields.io/pub/v/flutter_upgradex?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/flutter_upgradex?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/flutter_upgradex?style=flat-square&color=0175C2) |
+| [mb_contact_form](https://pub.dev/packages/mb_contact_form) | ![version](https://img.shields.io/pub/v/mb_contact_form?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/mb_contact_form?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/mb_contact_form?style=flat-square&color=0175C2) |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
