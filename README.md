@@ -1,14 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Mouli Bheemaneti
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mouli%20Bheemaneti&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Engineer%20%E2%80%A2%20Product%20Thinker&descAlignY=60&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+Product+Enthusiast;Frontend+Craftsman;Turning+design+into+reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Building+products+from+0+%E2%86%92+1+%F0%9F%9A%80;Turning+design+into+reality%2C+pixel+by+pixel+%F0%9F%8E%A8;Music+producer+by+night+%F0%9F%8E%B5;Obsessed+with+great+UX+%E2%9C%A8)](https://git.io/typing-svg)
 
-*Crafting responsive interfaces, refining user journeys, and turning design into reality — one pixel at a time.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moulibheemaneti)
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moulibheemaneti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulibheemaneti99@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=moulibheemaneti&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -16,47 +12,109 @@
 
 ## 🧰 Tech Stack
 
+<div align="center">
+
 **💻 Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css" />
 
 **🧩 Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" />
 
 **📱 Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-**🎨 Design & Product**
+**🎨 Design & Tools**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<!-- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) -->
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 
----
-
-## 🌐 Portfolios — Shades of MB
-
-| | Link |
-|--|--|
-| 🌍 Generic | [moulibheemaneti.com](https://www.moulibheemaneti.com) |
-| 👨‍💻 Developer | [developer.moulibheemaneti](https://developer.moulibheemaneti.com) |
-| 🎵 Musical Artist | [music.moulibheemaneti](https://music.moulibheemaneti.com) |
-| 🎨 Designer | [behance.net/moulibheemaneti](https://www.behance.net/moulibheemaneti) |
+</div>
 
 ---
 
-## 🎧 Outside the Code
+## 📊 GitHub Stats
 
-When I'm not writing code or crafting product ideas, you'll find me:
+<div align="center">
 
-- 🎵 Producing music, writing lyrics, or diving into new sounds
-- 🏸 Playing a fun round of badminton
-- 📚 Reading books — both tech and beyond
+<img src="https://github-readme-stats.vercel.app/api?username=moulibheemaneti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=moulibheemaneti&theme=tokyonight&hide_border=true" height="175"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=moulibheemaneti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moulibheemaneti&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1&color=6366f1&line=6366f1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌐 Shades of MB
+
+> *One person. Many expressions.*
+
+<div align="center">
+
+| | Identity | Link |
+|:--:|:--|:--|
+| 🌍 | The Full Picture | [moulibheemaneti.com](https://www.moulibheemaneti.com) |
+| 👨‍💻 | The Engineer | [developer.moulibheemaneti.com](https://developer.moulibheemaneti.com) |
+| 🎵 | The Musician | [music.moulibheemaneti.com](https://music.moulibheemaneti.com) |
+| 🎨 | The Designer | [behance.net/moulibheemaneti](https://www.behance.net/moulibheemaneti) |
+
+</div>
+
+---
+
+## 🎧 Beyond the Terminal
+
+<div align="center">
+
+| | |
+|:--:|:--|
+| 🎵 | Producing music, writing lyrics, chasing new sounds |
+| 🏸 | Smashing shuttlecocks on the badminton court |
+| 📚 | Reading everything — tech, philosophy, fiction |
+| 🧠 | Obsessing over product strategy & what to build next |
+
+</div>
+
+---
+
+## 📬 Let's Build Something
+
+<div align="center">
+
+*Open for collabs, and exciting side gigs!*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moulibheemaneti)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulibheemaneti99@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.moulibheemaneti.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
 
