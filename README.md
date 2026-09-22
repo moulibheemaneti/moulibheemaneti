@@ -51,6 +51,7 @@
 | [flutter_createx](https://pub.dev/packages/flutter_createx) | ![version](https://img.shields.io/pub/v/flutter_createx?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/flutter_createx?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/flutter_createx?style=flat-square&color=0175C2) |
 | [flutter_upgradex](https://pub.dev/packages/flutter_upgradex) | ![version](https://img.shields.io/pub/v/flutter_upgradex?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/flutter_upgradex?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/flutter_upgradex?style=flat-square&color=0175C2) |
 | [mb_contact_form](https://pub.dev/packages/mb_contact_form) | ![version](https://img.shields.io/pub/v/mb_contact_form?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/mb_contact_form?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/mb_contact_form?style=flat-square&color=0175C2) |
+| [carrier_info_plus](https://pub.dev/packages/carrier_info_plus) | ![version](https://img.shields.io/pub/v/carrier_info_plus?style=flat-square&color=0175C2&logo=dart&logoColor=white) | ![likes](https://img.shields.io/pub/likes/carrier_info_plus?style=flat-square&color=0175C2) | ![points](https://img.shields.io/pub/points/carrier_info_plus?style=flat-square&color=0175C2) |
 
 ---
 
