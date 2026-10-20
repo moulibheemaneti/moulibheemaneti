@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moulibheemaneti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=moulibheemaneti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moulibheemaneti&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1&color=6366f1&line=6366f1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Chart](https://ghchart.rshah.org/6366f1/moulibheemaneti)](https://github.com/moulibheemaneti)
 
 </div>
 
