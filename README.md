@@ -75,16 +75,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Contribution Chart](https://ghchart.rshah.org/6366f1/moulibheemaneti)](https://github.com/moulibheemaneti)
-
-</div>
-
----
-
 ## 🌐 Shades of MB
 
 > *One person. Many expressions.*
